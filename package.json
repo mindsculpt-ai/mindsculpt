@@ -1,0 +1,25 @@
+{
+  "name": "open",
+  "version": "1.0.0",
+  "description": "MindSculpt is a sophisticated cognitive architecture system that enables AI agents to form, manage, and utilize memories while developing distinct personalities over time. It provides a robust framework for creating AI agents with persistent memory, emotional intelligence, and adaptive behavior patterns.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "@types/node": "^22.10.10",
+    "@typescript-eslint/eslint-plugin": "^8.21.0",
+    "@typescript-eslint/parser": "^8.21.0",
+    "eslint": "^9.19.0",
+    "globals": "^15.14.0",
+    "jest": "^29.7.0",
+    "prettier": "^3.4.2",
+    "ts-jest": "^29.2.5",
+    "typescript": "^5.7.3",
+    "typescript-eslint": "^8.21.0"
+  }
+}
